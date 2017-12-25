@@ -60,7 +60,7 @@ var GameState =  {
 
 
 var sprite;
-var score = 24;
+var score = 0;
 var scoreText;
 var upKey;
 var downKey;
