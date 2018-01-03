@@ -1,5 +1,12 @@
 let game = new Phaser.Game(640, 360, Phaser.AUTO);
+/*
 
+Creator: Nicolas Delatore
+Internet name: Who885 || FighterZee || Blergith
+
+
+
+*/
 var GameState =  {
     preload: function(){
         this.load.image('background', 'assets/Background.png');
